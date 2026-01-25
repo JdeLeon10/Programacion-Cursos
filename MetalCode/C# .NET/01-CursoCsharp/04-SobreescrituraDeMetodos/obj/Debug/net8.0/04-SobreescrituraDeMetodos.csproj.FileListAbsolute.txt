@@ -1,0 +1,14 @@
+C:\Users\Jered\OneDrive\Desktop\Programacion\C# .NET\CursoC#\04-SobreescrituraDeMetodos\bin\Debug\net8.0\04-SobreescrituraDeMetodos.exe
+C:\Users\Jered\OneDrive\Desktop\Programacion\C# .NET\CursoC#\04-SobreescrituraDeMetodos\bin\Debug\net8.0\04-SobreescrituraDeMetodos.deps.json
+C:\Users\Jered\OneDrive\Desktop\Programacion\C# .NET\CursoC#\04-SobreescrituraDeMetodos\bin\Debug\net8.0\04-SobreescrituraDeMetodos.runtimeconfig.json
+C:\Users\Jered\OneDrive\Desktop\Programacion\C# .NET\CursoC#\04-SobreescrituraDeMetodos\bin\Debug\net8.0\04-SobreescrituraDeMetodos.dll
+C:\Users\Jered\OneDrive\Desktop\Programacion\C# .NET\CursoC#\04-SobreescrituraDeMetodos\bin\Debug\net8.0\04-SobreescrituraDeMetodos.pdb
+C:\Users\Jered\OneDrive\Desktop\Programacion\C# .NET\CursoC#\04-SobreescrituraDeMetodos\obj\Debug\net8.0\04-SobreescrituraDeMetodos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jered\OneDrive\Desktop\Programacion\C# .NET\CursoC#\04-SobreescrituraDeMetodos\obj\Debug\net8.0\04-SobreescrituraDeMetodos.AssemblyInfoInputs.cache
+C:\Users\Jered\OneDrive\Desktop\Programacion\C# .NET\CursoC#\04-SobreescrituraDeMetodos\obj\Debug\net8.0\04-SobreescrituraDeMetodos.AssemblyInfo.cs
+C:\Users\Jered\OneDrive\Desktop\Programacion\C# .NET\CursoC#\04-SobreescrituraDeMetodos\obj\Debug\net8.0\04-SobreescrituraDeMetodos.csproj.CoreCompileInputs.cache
+C:\Users\Jered\OneDrive\Desktop\Programacion\C# .NET\CursoC#\04-SobreescrituraDeMetodos\obj\Debug\net8.0\04-SobreescrituraDeMetodos.dll
+C:\Users\Jered\OneDrive\Desktop\Programacion\C# .NET\CursoC#\04-SobreescrituraDeMetodos\obj\Debug\net8.0\refint\04-SobreescrituraDeMetodos.dll
+C:\Users\Jered\OneDrive\Desktop\Programacion\C# .NET\CursoC#\04-SobreescrituraDeMetodos\obj\Debug\net8.0\04-SobreescrituraDeMetodos.pdb
+C:\Users\Jered\OneDrive\Desktop\Programacion\C# .NET\CursoC#\04-SobreescrituraDeMetodos\obj\Debug\net8.0\04-SobreescrituraDeMetodos.genruntimeconfig.cache
+C:\Users\Jered\OneDrive\Desktop\Programacion\C# .NET\CursoC#\04-SobreescrituraDeMetodos\obj\Debug\net8.0\ref\04-SobreescrituraDeMetodos.dll

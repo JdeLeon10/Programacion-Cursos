@@ -1,0 +1,14 @@
+C:\Users\Jered\OneDrive\Desktop\Programacion\CursoC#\04-SentenciaIFElseIf\bin\Debug\net8.0\04-SentenciaIFElseIf.exe
+C:\Users\Jered\OneDrive\Desktop\Programacion\CursoC#\04-SentenciaIFElseIf\bin\Debug\net8.0\04-SentenciaIFElseIf.deps.json
+C:\Users\Jered\OneDrive\Desktop\Programacion\CursoC#\04-SentenciaIFElseIf\bin\Debug\net8.0\04-SentenciaIFElseIf.runtimeconfig.json
+C:\Users\Jered\OneDrive\Desktop\Programacion\CursoC#\04-SentenciaIFElseIf\bin\Debug\net8.0\04-SentenciaIFElseIf.dll
+C:\Users\Jered\OneDrive\Desktop\Programacion\CursoC#\04-SentenciaIFElseIf\bin\Debug\net8.0\04-SentenciaIFElseIf.pdb
+C:\Users\Jered\OneDrive\Desktop\Programacion\CursoC#\04-SentenciaIFElseIf\obj\Debug\net8.0\04-SentenciaIFElseIf.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jered\OneDrive\Desktop\Programacion\CursoC#\04-SentenciaIFElseIf\obj\Debug\net8.0\04-SentenciaIFElseIf.AssemblyInfoInputs.cache
+C:\Users\Jered\OneDrive\Desktop\Programacion\CursoC#\04-SentenciaIFElseIf\obj\Debug\net8.0\04-SentenciaIFElseIf.AssemblyInfo.cs
+C:\Users\Jered\OneDrive\Desktop\Programacion\CursoC#\04-SentenciaIFElseIf\obj\Debug\net8.0\04-SentenciaIFElseIf.csproj.CoreCompileInputs.cache
+C:\Users\Jered\OneDrive\Desktop\Programacion\CursoC#\04-SentenciaIFElseIf\obj\Debug\net8.0\04-SentenciaIFElseIf.dll
+C:\Users\Jered\OneDrive\Desktop\Programacion\CursoC#\04-SentenciaIFElseIf\obj\Debug\net8.0\refint\04-SentenciaIFElseIf.dll
+C:\Users\Jered\OneDrive\Desktop\Programacion\CursoC#\04-SentenciaIFElseIf\obj\Debug\net8.0\04-SentenciaIFElseIf.pdb
+C:\Users\Jered\OneDrive\Desktop\Programacion\CursoC#\04-SentenciaIFElseIf\obj\Debug\net8.0\04-SentenciaIFElseIf.genruntimeconfig.cache
+C:\Users\Jered\OneDrive\Desktop\Programacion\CursoC#\04-SentenciaIFElseIf\obj\Debug\net8.0\ref\04-SentenciaIFElseIf.dll

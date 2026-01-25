@@ -1,0 +1,14 @@
+C:\Users\Jered\OneDrive\Desktop\Programacion\C# .NET\CursoC#\10-GestionNotas\bin\Debug\net8.0\10-GestionNotas.exe
+C:\Users\Jered\OneDrive\Desktop\Programacion\C# .NET\CursoC#\10-GestionNotas\bin\Debug\net8.0\10-GestionNotas.deps.json
+C:\Users\Jered\OneDrive\Desktop\Programacion\C# .NET\CursoC#\10-GestionNotas\bin\Debug\net8.0\10-GestionNotas.runtimeconfig.json
+C:\Users\Jered\OneDrive\Desktop\Programacion\C# .NET\CursoC#\10-GestionNotas\bin\Debug\net8.0\10-GestionNotas.dll
+C:\Users\Jered\OneDrive\Desktop\Programacion\C# .NET\CursoC#\10-GestionNotas\bin\Debug\net8.0\10-GestionNotas.pdb
+C:\Users\Jered\OneDrive\Desktop\Programacion\C# .NET\CursoC#\10-GestionNotas\obj\Debug\net8.0\10-GestionNotas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jered\OneDrive\Desktop\Programacion\C# .NET\CursoC#\10-GestionNotas\obj\Debug\net8.0\10-GestionNotas.AssemblyInfoInputs.cache
+C:\Users\Jered\OneDrive\Desktop\Programacion\C# .NET\CursoC#\10-GestionNotas\obj\Debug\net8.0\10-GestionNotas.AssemblyInfo.cs
+C:\Users\Jered\OneDrive\Desktop\Programacion\C# .NET\CursoC#\10-GestionNotas\obj\Debug\net8.0\10-GestionNotas.csproj.CoreCompileInputs.cache
+C:\Users\Jered\OneDrive\Desktop\Programacion\C# .NET\CursoC#\10-GestionNotas\obj\Debug\net8.0\10-GestionNotas.dll
+C:\Users\Jered\OneDrive\Desktop\Programacion\C# .NET\CursoC#\10-GestionNotas\obj\Debug\net8.0\refint\10-GestionNotas.dll
+C:\Users\Jered\OneDrive\Desktop\Programacion\C# .NET\CursoC#\10-GestionNotas\obj\Debug\net8.0\10-GestionNotas.pdb
+C:\Users\Jered\OneDrive\Desktop\Programacion\C# .NET\CursoC#\10-GestionNotas\obj\Debug\net8.0\10-GestionNotas.genruntimeconfig.cache
+C:\Users\Jered\OneDrive\Desktop\Programacion\C# .NET\CursoC#\10-GestionNotas\obj\Debug\net8.0\ref\10-GestionNotas.dll

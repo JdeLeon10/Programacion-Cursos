@@ -1,0 +1,14 @@
+C:\Users\Jered\OneDrive\Desktop\Programacion\MetalCode\C# .NET\02-BackendDotNet\SerializacionYDeserializacionJSON\bin\Debug\net8.0\SerializacionYDeserializacionJSON.exe
+C:\Users\Jered\OneDrive\Desktop\Programacion\MetalCode\C# .NET\02-BackendDotNet\SerializacionYDeserializacionJSON\bin\Debug\net8.0\SerializacionYDeserializacionJSON.deps.json
+C:\Users\Jered\OneDrive\Desktop\Programacion\MetalCode\C# .NET\02-BackendDotNet\SerializacionYDeserializacionJSON\bin\Debug\net8.0\SerializacionYDeserializacionJSON.runtimeconfig.json
+C:\Users\Jered\OneDrive\Desktop\Programacion\MetalCode\C# .NET\02-BackendDotNet\SerializacionYDeserializacionJSON\bin\Debug\net8.0\SerializacionYDeserializacionJSON.dll
+C:\Users\Jered\OneDrive\Desktop\Programacion\MetalCode\C# .NET\02-BackendDotNet\SerializacionYDeserializacionJSON\bin\Debug\net8.0\SerializacionYDeserializacionJSON.pdb
+C:\Users\Jered\OneDrive\Desktop\Programacion\MetalCode\C# .NET\02-BackendDotNet\SerializacionYDeserializacionJSON\obj\Debug\net8.0\SerializacionYDeserializacionJSON.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jered\OneDrive\Desktop\Programacion\MetalCode\C# .NET\02-BackendDotNet\SerializacionYDeserializacionJSON\obj\Debug\net8.0\SerializacionYDeserializacionJSON.AssemblyInfoInputs.cache
+C:\Users\Jered\OneDrive\Desktop\Programacion\MetalCode\C# .NET\02-BackendDotNet\SerializacionYDeserializacionJSON\obj\Debug\net8.0\SerializacionYDeserializacionJSON.AssemblyInfo.cs
+C:\Users\Jered\OneDrive\Desktop\Programacion\MetalCode\C# .NET\02-BackendDotNet\SerializacionYDeserializacionJSON\obj\Debug\net8.0\SerializacionYDeserializacionJSON.csproj.CoreCompileInputs.cache
+C:\Users\Jered\OneDrive\Desktop\Programacion\MetalCode\C# .NET\02-BackendDotNet\SerializacionYDeserializacionJSON\obj\Debug\net8.0\SerializacionYDeserializacionJSON.dll
+C:\Users\Jered\OneDrive\Desktop\Programacion\MetalCode\C# .NET\02-BackendDotNet\SerializacionYDeserializacionJSON\obj\Debug\net8.0\refint\SerializacionYDeserializacionJSON.dll
+C:\Users\Jered\OneDrive\Desktop\Programacion\MetalCode\C# .NET\02-BackendDotNet\SerializacionYDeserializacionJSON\obj\Debug\net8.0\SerializacionYDeserializacionJSON.pdb
+C:\Users\Jered\OneDrive\Desktop\Programacion\MetalCode\C# .NET\02-BackendDotNet\SerializacionYDeserializacionJSON\obj\Debug\net8.0\SerializacionYDeserializacionJSON.genruntimeconfig.cache
+C:\Users\Jered\OneDrive\Desktop\Programacion\MetalCode\C# .NET\02-BackendDotNet\SerializacionYDeserializacionJSON\obj\Debug\net8.0\ref\SerializacionYDeserializacionJSON.dll

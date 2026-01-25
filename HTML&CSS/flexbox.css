@@ -1,0 +1,42 @@
+/* Como funciona el contenedor respecto a sus hijos, por lo tanto debe ser agregado en los contenedores padres */
+/* Funciona como filas por defecto */
+/* Flex funciona en un solo eje, ya sea horizontal o verticalmente. */
+
+.flexbox-parent{
+    border: 2px solid red;
+    margin: 0 auto;
+    width: 500px;
+    height: 600px;
+    display: flex;
+    box-sizing: border-box;
+    justify-items: space-around;
+    align-items: center;
+    gap: 10px;
+}
+
+.item1, .item2, .item3, .generic-box{
+    margin: 5px;
+    border: 2px solid black;
+    color: white;
+    width: 100px;
+    height: 100px;
+    box-sizing: border-box;
+    text-align: center;
+}
+
+.item1{
+    background-color: blue;
+    flex: 2; /* Ocupa el doble de espacio que los otros elementos */
+}
+
+.item2{
+    background-color: green;
+}
+
+.item3{
+    background-color: orange;
+}
+
+.generic-box{
+    background-color: purple;
+}

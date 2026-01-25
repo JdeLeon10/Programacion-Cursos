@@ -1,0 +1,14 @@
+C:\Users\Jered\OneDrive\Desktop\Programacion\C# .NET\CursoC#\00-TiposAnonimos\bin\Debug\net8.0\00-TiposAnonimos.exe
+C:\Users\Jered\OneDrive\Desktop\Programacion\C# .NET\CursoC#\00-TiposAnonimos\bin\Debug\net8.0\00-TiposAnonimos.deps.json
+C:\Users\Jered\OneDrive\Desktop\Programacion\C# .NET\CursoC#\00-TiposAnonimos\bin\Debug\net8.0\00-TiposAnonimos.runtimeconfig.json
+C:\Users\Jered\OneDrive\Desktop\Programacion\C# .NET\CursoC#\00-TiposAnonimos\bin\Debug\net8.0\00-TiposAnonimos.dll
+C:\Users\Jered\OneDrive\Desktop\Programacion\C# .NET\CursoC#\00-TiposAnonimos\bin\Debug\net8.0\00-TiposAnonimos.pdb
+C:\Users\Jered\OneDrive\Desktop\Programacion\C# .NET\CursoC#\00-TiposAnonimos\obj\Debug\net8.0\00-TiposAnonimos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jered\OneDrive\Desktop\Programacion\C# .NET\CursoC#\00-TiposAnonimos\obj\Debug\net8.0\00-TiposAnonimos.AssemblyInfoInputs.cache
+C:\Users\Jered\OneDrive\Desktop\Programacion\C# .NET\CursoC#\00-TiposAnonimos\obj\Debug\net8.0\00-TiposAnonimos.AssemblyInfo.cs
+C:\Users\Jered\OneDrive\Desktop\Programacion\C# .NET\CursoC#\00-TiposAnonimos\obj\Debug\net8.0\00-TiposAnonimos.csproj.CoreCompileInputs.cache
+C:\Users\Jered\OneDrive\Desktop\Programacion\C# .NET\CursoC#\00-TiposAnonimos\obj\Debug\net8.0\00-TiposAnonimos.dll
+C:\Users\Jered\OneDrive\Desktop\Programacion\C# .NET\CursoC#\00-TiposAnonimos\obj\Debug\net8.0\refint\00-TiposAnonimos.dll
+C:\Users\Jered\OneDrive\Desktop\Programacion\C# .NET\CursoC#\00-TiposAnonimos\obj\Debug\net8.0\00-TiposAnonimos.pdb
+C:\Users\Jered\OneDrive\Desktop\Programacion\C# .NET\CursoC#\00-TiposAnonimos\obj\Debug\net8.0\00-TiposAnonimos.genruntimeconfig.cache
+C:\Users\Jered\OneDrive\Desktop\Programacion\C# .NET\CursoC#\00-TiposAnonimos\obj\Debug\net8.0\ref\00-TiposAnonimos.dll

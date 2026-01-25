@@ -1,0 +1,14 @@
+C:\Users\Jered\OneDrive\Desktop\Programacion\MetalCode\C# .NET\02-BackendDotNet\IntroPOO\bin\Debug\net8.0\IntroPOO.exe
+C:\Users\Jered\OneDrive\Desktop\Programacion\MetalCode\C# .NET\02-BackendDotNet\IntroPOO\bin\Debug\net8.0\IntroPOO.deps.json
+C:\Users\Jered\OneDrive\Desktop\Programacion\MetalCode\C# .NET\02-BackendDotNet\IntroPOO\bin\Debug\net8.0\IntroPOO.runtimeconfig.json
+C:\Users\Jered\OneDrive\Desktop\Programacion\MetalCode\C# .NET\02-BackendDotNet\IntroPOO\bin\Debug\net8.0\IntroPOO.dll
+C:\Users\Jered\OneDrive\Desktop\Programacion\MetalCode\C# .NET\02-BackendDotNet\IntroPOO\bin\Debug\net8.0\IntroPOO.pdb
+C:\Users\Jered\OneDrive\Desktop\Programacion\MetalCode\C# .NET\02-BackendDotNet\IntroPOO\obj\Debug\net8.0\IntroPOO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jered\OneDrive\Desktop\Programacion\MetalCode\C# .NET\02-BackendDotNet\IntroPOO\obj\Debug\net8.0\IntroPOO.AssemblyInfoInputs.cache
+C:\Users\Jered\OneDrive\Desktop\Programacion\MetalCode\C# .NET\02-BackendDotNet\IntroPOO\obj\Debug\net8.0\IntroPOO.AssemblyInfo.cs
+C:\Users\Jered\OneDrive\Desktop\Programacion\MetalCode\C# .NET\02-BackendDotNet\IntroPOO\obj\Debug\net8.0\IntroPOO.csproj.CoreCompileInputs.cache
+C:\Users\Jered\OneDrive\Desktop\Programacion\MetalCode\C# .NET\02-BackendDotNet\IntroPOO\obj\Debug\net8.0\IntroPOO.dll
+C:\Users\Jered\OneDrive\Desktop\Programacion\MetalCode\C# .NET\02-BackendDotNet\IntroPOO\obj\Debug\net8.0\refint\IntroPOO.dll
+C:\Users\Jered\OneDrive\Desktop\Programacion\MetalCode\C# .NET\02-BackendDotNet\IntroPOO\obj\Debug\net8.0\IntroPOO.pdb
+C:\Users\Jered\OneDrive\Desktop\Programacion\MetalCode\C# .NET\02-BackendDotNet\IntroPOO\obj\Debug\net8.0\IntroPOO.genruntimeconfig.cache
+C:\Users\Jered\OneDrive\Desktop\Programacion\MetalCode\C# .NET\02-BackendDotNet\IntroPOO\obj\Debug\net8.0\ref\IntroPOO.dll

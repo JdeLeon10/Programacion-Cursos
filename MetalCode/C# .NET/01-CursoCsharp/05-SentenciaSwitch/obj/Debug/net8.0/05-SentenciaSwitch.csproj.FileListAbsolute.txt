@@ -1,0 +1,14 @@
+C:\Users\Jered\OneDrive\Desktop\Programacion\CursoC#\05-SentenciaSwitch\bin\Debug\net8.0\05-SentenciaSwitch.exe
+C:\Users\Jered\OneDrive\Desktop\Programacion\CursoC#\05-SentenciaSwitch\bin\Debug\net8.0\05-SentenciaSwitch.deps.json
+C:\Users\Jered\OneDrive\Desktop\Programacion\CursoC#\05-SentenciaSwitch\bin\Debug\net8.0\05-SentenciaSwitch.runtimeconfig.json
+C:\Users\Jered\OneDrive\Desktop\Programacion\CursoC#\05-SentenciaSwitch\bin\Debug\net8.0\05-SentenciaSwitch.dll
+C:\Users\Jered\OneDrive\Desktop\Programacion\CursoC#\05-SentenciaSwitch\bin\Debug\net8.0\05-SentenciaSwitch.pdb
+C:\Users\Jered\OneDrive\Desktop\Programacion\CursoC#\05-SentenciaSwitch\obj\Debug\net8.0\05-SentenciaSwitch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jered\OneDrive\Desktop\Programacion\CursoC#\05-SentenciaSwitch\obj\Debug\net8.0\05-SentenciaSwitch.AssemblyInfoInputs.cache
+C:\Users\Jered\OneDrive\Desktop\Programacion\CursoC#\05-SentenciaSwitch\obj\Debug\net8.0\05-SentenciaSwitch.AssemblyInfo.cs
+C:\Users\Jered\OneDrive\Desktop\Programacion\CursoC#\05-SentenciaSwitch\obj\Debug\net8.0\05-SentenciaSwitch.csproj.CoreCompileInputs.cache
+C:\Users\Jered\OneDrive\Desktop\Programacion\CursoC#\05-SentenciaSwitch\obj\Debug\net8.0\05-SentenciaSwitch.dll
+C:\Users\Jered\OneDrive\Desktop\Programacion\CursoC#\05-SentenciaSwitch\obj\Debug\net8.0\refint\05-SentenciaSwitch.dll
+C:\Users\Jered\OneDrive\Desktop\Programacion\CursoC#\05-SentenciaSwitch\obj\Debug\net8.0\05-SentenciaSwitch.pdb
+C:\Users\Jered\OneDrive\Desktop\Programacion\CursoC#\05-SentenciaSwitch\obj\Debug\net8.0\05-SentenciaSwitch.genruntimeconfig.cache
+C:\Users\Jered\OneDrive\Desktop\Programacion\CursoC#\05-SentenciaSwitch\obj\Debug\net8.0\ref\05-SentenciaSwitch.dll

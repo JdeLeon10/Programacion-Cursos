@@ -1,0 +1,14 @@
+C:\Users\Jered\OneDrive\Desktop\Programacion\CursoC#\06-Arreglos\bin\Debug\net8.0\06-Arreglos.exe
+C:\Users\Jered\OneDrive\Desktop\Programacion\CursoC#\06-Arreglos\bin\Debug\net8.0\06-Arreglos.deps.json
+C:\Users\Jered\OneDrive\Desktop\Programacion\CursoC#\06-Arreglos\bin\Debug\net8.0\06-Arreglos.runtimeconfig.json
+C:\Users\Jered\OneDrive\Desktop\Programacion\CursoC#\06-Arreglos\bin\Debug\net8.0\06-Arreglos.dll
+C:\Users\Jered\OneDrive\Desktop\Programacion\CursoC#\06-Arreglos\bin\Debug\net8.0\06-Arreglos.pdb
+C:\Users\Jered\OneDrive\Desktop\Programacion\CursoC#\06-Arreglos\obj\Debug\net8.0\06-Arreglos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jered\OneDrive\Desktop\Programacion\CursoC#\06-Arreglos\obj\Debug\net8.0\06-Arreglos.AssemblyInfoInputs.cache
+C:\Users\Jered\OneDrive\Desktop\Programacion\CursoC#\06-Arreglos\obj\Debug\net8.0\06-Arreglos.AssemblyInfo.cs
+C:\Users\Jered\OneDrive\Desktop\Programacion\CursoC#\06-Arreglos\obj\Debug\net8.0\06-Arreglos.csproj.CoreCompileInputs.cache
+C:\Users\Jered\OneDrive\Desktop\Programacion\CursoC#\06-Arreglos\obj\Debug\net8.0\06-Arreglos.dll
+C:\Users\Jered\OneDrive\Desktop\Programacion\CursoC#\06-Arreglos\obj\Debug\net8.0\refint\06-Arreglos.dll
+C:\Users\Jered\OneDrive\Desktop\Programacion\CursoC#\06-Arreglos\obj\Debug\net8.0\06-Arreglos.pdb
+C:\Users\Jered\OneDrive\Desktop\Programacion\CursoC#\06-Arreglos\obj\Debug\net8.0\06-Arreglos.genruntimeconfig.cache
+C:\Users\Jered\OneDrive\Desktop\Programacion\CursoC#\06-Arreglos\obj\Debug\net8.0\ref\06-Arreglos.dll

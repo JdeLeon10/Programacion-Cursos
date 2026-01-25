@@ -1,0 +1,80 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+:root {
+    --primary: #1173d4;
+    --primary-dark: #0a3d66;
+    --primary-hover: #0d5ba8;
+    --primary-light: #09f;
+    --background: #101922;
+    --text-primary: #ffffff;
+    --text-muted: #94a3b8;
+    --boder: rgba(255, 255, 255, 0.1);
+    --card-bg: #1e293b;
+    --shadow: rgba(0, 0, 0, 0.3);
+    --input-bag: #1e293b;
+    --hsla-example: hsla(210, 100%, 56%, 1);
+}
+
+@font-face {
+    font-family: 'Inter Variable';
+    font-style: normal;
+    font-display: swap;
+    font-weight: 100 900;
+    src: url(https://cdn.jsdelivr.net/fontsource/fonts/inter:vf@latest/latin-wght-normal.woff2) format('woff2-variations');
+    unicode-range: U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD;
+}
+
+body{
+    font-family: sustem-iu;
+    background-color: var(--background);
+    color: var(--text-primary);
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    line-height: 1.6;
+}
+
+/* Titulos principales */
+h1{
+    font-size: 1.5rem;
+    line-height: 1.2;
+    text-wrap: balance;
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+
+    svg{
+        width: 2rem;
+        height: 2rem;
+        color: var(--primary-light);
+    }
+}
+
+article{
+    background-color: var(--card-bg);
+    padding: 2rem;
+    margin-bottom: 16px;
+    border-radius: 0.5rem;
+    box-shadow: 0px 1px 3px 0px rgba(0, 0, 0, 0.5);
+
+    svg{
+        color: var(--primary-light);
+        background: rgba(0, 153, 255, 0.3);
+        width: 64px;
+        height: 64px;
+        border-radius: 100%;
+        padding: 16px;
+    }
+
+    p{
+        color: var(--text-muted)
+    }
+
+    h3{
+        font-weight: 500;
+    }
+}

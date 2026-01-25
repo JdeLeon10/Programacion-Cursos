@@ -1,0 +1,14 @@
+C:\Users\Jered\OneDrive\Desktop\Programacion\C# .NET\CursoC#\09-Calculadora\bin\Debug\net8.0\09-Calculadora.exe
+C:\Users\Jered\OneDrive\Desktop\Programacion\C# .NET\CursoC#\09-Calculadora\bin\Debug\net8.0\09-Calculadora.deps.json
+C:\Users\Jered\OneDrive\Desktop\Programacion\C# .NET\CursoC#\09-Calculadora\bin\Debug\net8.0\09-Calculadora.runtimeconfig.json
+C:\Users\Jered\OneDrive\Desktop\Programacion\C# .NET\CursoC#\09-Calculadora\bin\Debug\net8.0\09-Calculadora.dll
+C:\Users\Jered\OneDrive\Desktop\Programacion\C# .NET\CursoC#\09-Calculadora\bin\Debug\net8.0\09-Calculadora.pdb
+C:\Users\Jered\OneDrive\Desktop\Programacion\C# .NET\CursoC#\09-Calculadora\obj\Debug\net8.0\09-Calculadora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jered\OneDrive\Desktop\Programacion\C# .NET\CursoC#\09-Calculadora\obj\Debug\net8.0\09-Calculadora.AssemblyInfoInputs.cache
+C:\Users\Jered\OneDrive\Desktop\Programacion\C# .NET\CursoC#\09-Calculadora\obj\Debug\net8.0\09-Calculadora.AssemblyInfo.cs
+C:\Users\Jered\OneDrive\Desktop\Programacion\C# .NET\CursoC#\09-Calculadora\obj\Debug\net8.0\09-Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\Jered\OneDrive\Desktop\Programacion\C# .NET\CursoC#\09-Calculadora\obj\Debug\net8.0\09-Calculadora.dll
+C:\Users\Jered\OneDrive\Desktop\Programacion\C# .NET\CursoC#\09-Calculadora\obj\Debug\net8.0\refint\09-Calculadora.dll
+C:\Users\Jered\OneDrive\Desktop\Programacion\C# .NET\CursoC#\09-Calculadora\obj\Debug\net8.0\09-Calculadora.pdb
+C:\Users\Jered\OneDrive\Desktop\Programacion\C# .NET\CursoC#\09-Calculadora\obj\Debug\net8.0\09-Calculadora.genruntimeconfig.cache
+C:\Users\Jered\OneDrive\Desktop\Programacion\C# .NET\CursoC#\09-Calculadora\obj\Debug\net8.0\ref\09-Calculadora.dll

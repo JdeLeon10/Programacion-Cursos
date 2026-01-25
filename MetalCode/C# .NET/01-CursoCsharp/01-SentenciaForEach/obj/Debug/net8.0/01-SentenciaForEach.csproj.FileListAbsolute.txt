@@ -1,0 +1,14 @@
+C:\Users\Jered\OneDrive\Desktop\Programacion\C# .NET\CursoC#\01-SentenciaForEach\bin\Debug\net8.0\01-SentenciaForEach.exe
+C:\Users\Jered\OneDrive\Desktop\Programacion\C# .NET\CursoC#\01-SentenciaForEach\bin\Debug\net8.0\01-SentenciaForEach.deps.json
+C:\Users\Jered\OneDrive\Desktop\Programacion\C# .NET\CursoC#\01-SentenciaForEach\bin\Debug\net8.0\01-SentenciaForEach.runtimeconfig.json
+C:\Users\Jered\OneDrive\Desktop\Programacion\C# .NET\CursoC#\01-SentenciaForEach\bin\Debug\net8.0\01-SentenciaForEach.dll
+C:\Users\Jered\OneDrive\Desktop\Programacion\C# .NET\CursoC#\01-SentenciaForEach\bin\Debug\net8.0\01-SentenciaForEach.pdb
+C:\Users\Jered\OneDrive\Desktop\Programacion\C# .NET\CursoC#\01-SentenciaForEach\obj\Debug\net8.0\01-SentenciaForEach.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jered\OneDrive\Desktop\Programacion\C# .NET\CursoC#\01-SentenciaForEach\obj\Debug\net8.0\01-SentenciaForEach.AssemblyInfoInputs.cache
+C:\Users\Jered\OneDrive\Desktop\Programacion\C# .NET\CursoC#\01-SentenciaForEach\obj\Debug\net8.0\01-SentenciaForEach.AssemblyInfo.cs
+C:\Users\Jered\OneDrive\Desktop\Programacion\C# .NET\CursoC#\01-SentenciaForEach\obj\Debug\net8.0\01-SentenciaForEach.csproj.CoreCompileInputs.cache
+C:\Users\Jered\OneDrive\Desktop\Programacion\C# .NET\CursoC#\01-SentenciaForEach\obj\Debug\net8.0\01-SentenciaForEach.dll
+C:\Users\Jered\OneDrive\Desktop\Programacion\C# .NET\CursoC#\01-SentenciaForEach\obj\Debug\net8.0\refint\01-SentenciaForEach.dll
+C:\Users\Jered\OneDrive\Desktop\Programacion\C# .NET\CursoC#\01-SentenciaForEach\obj\Debug\net8.0\01-SentenciaForEach.pdb
+C:\Users\Jered\OneDrive\Desktop\Programacion\C# .NET\CursoC#\01-SentenciaForEach\obj\Debug\net8.0\01-SentenciaForEach.genruntimeconfig.cache
+C:\Users\Jered\OneDrive\Desktop\Programacion\C# .NET\CursoC#\01-SentenciaForEach\obj\Debug\net8.0\ref\01-SentenciaForEach.dll

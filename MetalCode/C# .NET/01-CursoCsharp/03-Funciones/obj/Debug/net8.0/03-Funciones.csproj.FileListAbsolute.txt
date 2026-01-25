@@ -1,0 +1,14 @@
+C:\Users\Jered\OneDrive\Desktop\Programacion\CursoC#\03-Funciones\bin\Debug\net8.0\03-Funciones.exe
+C:\Users\Jered\OneDrive\Desktop\Programacion\CursoC#\03-Funciones\bin\Debug\net8.0\03-Funciones.deps.json
+C:\Users\Jered\OneDrive\Desktop\Programacion\CursoC#\03-Funciones\bin\Debug\net8.0\03-Funciones.runtimeconfig.json
+C:\Users\Jered\OneDrive\Desktop\Programacion\CursoC#\03-Funciones\bin\Debug\net8.0\03-Funciones.dll
+C:\Users\Jered\OneDrive\Desktop\Programacion\CursoC#\03-Funciones\bin\Debug\net8.0\03-Funciones.pdb
+C:\Users\Jered\OneDrive\Desktop\Programacion\CursoC#\03-Funciones\obj\Debug\net8.0\03-Funciones.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jered\OneDrive\Desktop\Programacion\CursoC#\03-Funciones\obj\Debug\net8.0\03-Funciones.AssemblyInfoInputs.cache
+C:\Users\Jered\OneDrive\Desktop\Programacion\CursoC#\03-Funciones\obj\Debug\net8.0\03-Funciones.AssemblyInfo.cs
+C:\Users\Jered\OneDrive\Desktop\Programacion\CursoC#\03-Funciones\obj\Debug\net8.0\03-Funciones.csproj.CoreCompileInputs.cache
+C:\Users\Jered\OneDrive\Desktop\Programacion\CursoC#\03-Funciones\obj\Debug\net8.0\03-Funciones.dll
+C:\Users\Jered\OneDrive\Desktop\Programacion\CursoC#\03-Funciones\obj\Debug\net8.0\refint\03-Funciones.dll
+C:\Users\Jered\OneDrive\Desktop\Programacion\CursoC#\03-Funciones\obj\Debug\net8.0\03-Funciones.pdb
+C:\Users\Jered\OneDrive\Desktop\Programacion\CursoC#\03-Funciones\obj\Debug\net8.0\03-Funciones.genruntimeconfig.cache
+C:\Users\Jered\OneDrive\Desktop\Programacion\CursoC#\03-Funciones\obj\Debug\net8.0\ref\03-Funciones.dll

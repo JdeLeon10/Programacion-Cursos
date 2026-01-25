@@ -1,0 +1,14 @@
+C:\Users\Jered\OneDrive\Desktop\Programacion\C# .NET\CursoC#\00-IntroduccionAListas\bin\Debug\net8.0\00-IntroduccionAListas.exe
+C:\Users\Jered\OneDrive\Desktop\Programacion\C# .NET\CursoC#\00-IntroduccionAListas\bin\Debug\net8.0\00-IntroduccionAListas.deps.json
+C:\Users\Jered\OneDrive\Desktop\Programacion\C# .NET\CursoC#\00-IntroduccionAListas\bin\Debug\net8.0\00-IntroduccionAListas.runtimeconfig.json
+C:\Users\Jered\OneDrive\Desktop\Programacion\C# .NET\CursoC#\00-IntroduccionAListas\bin\Debug\net8.0\00-IntroduccionAListas.dll
+C:\Users\Jered\OneDrive\Desktop\Programacion\C# .NET\CursoC#\00-IntroduccionAListas\bin\Debug\net8.0\00-IntroduccionAListas.pdb
+C:\Users\Jered\OneDrive\Desktop\Programacion\C# .NET\CursoC#\00-IntroduccionAListas\obj\Debug\net8.0\00-IntroduccionAListas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jered\OneDrive\Desktop\Programacion\C# .NET\CursoC#\00-IntroduccionAListas\obj\Debug\net8.0\00-IntroduccionAListas.AssemblyInfoInputs.cache
+C:\Users\Jered\OneDrive\Desktop\Programacion\C# .NET\CursoC#\00-IntroduccionAListas\obj\Debug\net8.0\00-IntroduccionAListas.AssemblyInfo.cs
+C:\Users\Jered\OneDrive\Desktop\Programacion\C# .NET\CursoC#\00-IntroduccionAListas\obj\Debug\net8.0\00-IntroduccionAListas.csproj.CoreCompileInputs.cache
+C:\Users\Jered\OneDrive\Desktop\Programacion\C# .NET\CursoC#\00-IntroduccionAListas\obj\Debug\net8.0\00-IntroduccionAListas.dll
+C:\Users\Jered\OneDrive\Desktop\Programacion\C# .NET\CursoC#\00-IntroduccionAListas\obj\Debug\net8.0\refint\00-IntroduccionAListas.dll
+C:\Users\Jered\OneDrive\Desktop\Programacion\C# .NET\CursoC#\00-IntroduccionAListas\obj\Debug\net8.0\00-IntroduccionAListas.pdb
+C:\Users\Jered\OneDrive\Desktop\Programacion\C# .NET\CursoC#\00-IntroduccionAListas\obj\Debug\net8.0\00-IntroduccionAListas.genruntimeconfig.cache
+C:\Users\Jered\OneDrive\Desktop\Programacion\C# .NET\CursoC#\00-IntroduccionAListas\obj\Debug\net8.0\ref\00-IntroduccionAListas.dll

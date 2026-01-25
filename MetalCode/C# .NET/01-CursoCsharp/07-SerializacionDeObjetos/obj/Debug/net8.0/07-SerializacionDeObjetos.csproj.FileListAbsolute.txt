@@ -1,0 +1,14 @@
+C:\Users\Jered\OneDrive\Desktop\Programacion\C# .NET\CursoC#\07-SerializacionDeObjetos\bin\Debug\net8.0\07-SerializacionDeObjetos.exe
+C:\Users\Jered\OneDrive\Desktop\Programacion\C# .NET\CursoC#\07-SerializacionDeObjetos\bin\Debug\net8.0\07-SerializacionDeObjetos.deps.json
+C:\Users\Jered\OneDrive\Desktop\Programacion\C# .NET\CursoC#\07-SerializacionDeObjetos\bin\Debug\net8.0\07-SerializacionDeObjetos.runtimeconfig.json
+C:\Users\Jered\OneDrive\Desktop\Programacion\C# .NET\CursoC#\07-SerializacionDeObjetos\bin\Debug\net8.0\07-SerializacionDeObjetos.dll
+C:\Users\Jered\OneDrive\Desktop\Programacion\C# .NET\CursoC#\07-SerializacionDeObjetos\bin\Debug\net8.0\07-SerializacionDeObjetos.pdb
+C:\Users\Jered\OneDrive\Desktop\Programacion\C# .NET\CursoC#\07-SerializacionDeObjetos\obj\Debug\net8.0\07-SerializacionDeObjetos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jered\OneDrive\Desktop\Programacion\C# .NET\CursoC#\07-SerializacionDeObjetos\obj\Debug\net8.0\07-SerializacionDeObjetos.AssemblyInfoInputs.cache
+C:\Users\Jered\OneDrive\Desktop\Programacion\C# .NET\CursoC#\07-SerializacionDeObjetos\obj\Debug\net8.0\07-SerializacionDeObjetos.AssemblyInfo.cs
+C:\Users\Jered\OneDrive\Desktop\Programacion\C# .NET\CursoC#\07-SerializacionDeObjetos\obj\Debug\net8.0\07-SerializacionDeObjetos.csproj.CoreCompileInputs.cache
+C:\Users\Jered\OneDrive\Desktop\Programacion\C# .NET\CursoC#\07-SerializacionDeObjetos\obj\Debug\net8.0\07-SerializacionDeObjetos.dll
+C:\Users\Jered\OneDrive\Desktop\Programacion\C# .NET\CursoC#\07-SerializacionDeObjetos\obj\Debug\net8.0\refint\07-SerializacionDeObjetos.dll
+C:\Users\Jered\OneDrive\Desktop\Programacion\C# .NET\CursoC#\07-SerializacionDeObjetos\obj\Debug\net8.0\07-SerializacionDeObjetos.pdb
+C:\Users\Jered\OneDrive\Desktop\Programacion\C# .NET\CursoC#\07-SerializacionDeObjetos\obj\Debug\net8.0\07-SerializacionDeObjetos.genruntimeconfig.cache
+C:\Users\Jered\OneDrive\Desktop\Programacion\C# .NET\CursoC#\07-SerializacionDeObjetos\obj\Debug\net8.0\ref\07-SerializacionDeObjetos.dll
