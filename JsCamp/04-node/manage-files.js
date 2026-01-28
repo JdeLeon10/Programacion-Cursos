@@ -16,6 +16,8 @@ await mkdir('./nueva-carpeta', { recursive: true }); // recursive true evita que
 console.log('Carpeta creada con exito');
 
 // Eliminacion de un archivo
+/*
 import { unlink } from 'node:fs/promises';
-await unlink('./archivo-a-eliminar.txt'); // nombre del archivo a eliminar∫
+await unlink('./archivo-a-eliminar.txt'); // nombre del archivo a eliminar
 console.log('Archivo eliminado con exito');
+*/

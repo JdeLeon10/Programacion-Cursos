@@ -1,0 +1,2 @@
+Inicializar el proyecto = npm init -y
+Dependencia para importar join = npm install ms
