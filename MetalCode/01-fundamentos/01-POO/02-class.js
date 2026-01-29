@@ -1,20 +1,3 @@
-// Creacion de un objeto literal
-const Vehiculo = {
-    marca: "Toyota",
-    modelo: "Corolla",
-    anio: 2020,
-    // Creacion de metodo
-    showInfo: function() {
-        return `${this.marca} ${this.modelo} (${this.anio})`;
-    }
-}
-
-console.log(Vehiculo);
-console.log(Vehiculo.marca);
-console.log(Vehiculo.modelo);
-console.log(Vehiculo.anio);
-console.log(Vehiculo.showInfo());
-
 // Creacion de objetos usando clases
 class Persona {
     constructor (nombre, edad){
@@ -39,5 +22,18 @@ persona2.edad = 25;
 
 console.log(persona1);
 console.log(persona2);
-console.log(persona1.mostrarInfo());
 console.log(persona2.mostrarInfo());
+
+// Diferencia entre tener un constructor y no tenerlo en una clase
+class SinConstructor {
+    propiedad = "Valor por defecto";
+}
+class ConConstructor {
+    constructor(propiedad) {
+        this.propiedad = propiedad;
+    }           
+}
+
+const objetoSinConstructor = new SinConstructor();
+const objetoConConstructor = new ConConstructor("Valor asignado");
+console.log(persona1.mostrarInfo());
