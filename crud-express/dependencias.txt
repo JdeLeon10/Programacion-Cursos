@@ -1,0 +1,17 @@
+npm init --y = añade node js
+
+npm i express express-handlebars morgan mysql2
+
+express = framework
+express-handlebars = motor de plantillas para el frontend de la apis
+morgan = middleware para ver peticiones http
+mysql2 = modulo
+
+npm i nodemon -D
+nodemon = refrescar el servidor automaticamente despues de guardar
+
+en package.json:
+ "scripts": {
+    "dev": "nodemon index.js"
+  },
+npm run dev
