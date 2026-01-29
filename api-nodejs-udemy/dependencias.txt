@@ -1,2 +1,0 @@
-Inicializar el proyecto = npm init -y
-Instalar express = npm install -S express
