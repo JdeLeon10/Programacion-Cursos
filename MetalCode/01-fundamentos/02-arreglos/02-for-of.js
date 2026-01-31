@@ -9,3 +9,8 @@ for (const bebida of bebidas) {
 for (const char of name) {
     console.log(char);
 }
+
+// Recorriendo un arreglo con forEach
+bebidas.forEach(bebida => {
+    console.log(bebida);
+});
