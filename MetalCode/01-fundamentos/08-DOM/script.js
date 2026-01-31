@@ -20,10 +20,10 @@ document.querySelector("ul").appendChild(nuevoElementoLista);
 // Debe clonarse porque un elemento solo puede estar en un lugar del DOM
 const ElementoAmbasListas = document.createElement("li");
 ElementoAmbasListas.textContent = "Elemento añadido a ambas listas";
-const listas = document.querySelectorAll("ul");
+const elementos = document.querySelectorAll("ul");
 // Recorremos las listas y añadimos el elemento clonado a cada una
-for (const lista of listas) {
-    lista.appendChild(ElementoAmbasListas.cloneNode(true));
+for (const elemento of elementos) {
+    elemento.appendChild(ElementoAmbasListas.cloneNode(true));
 }
 
 // Sintaxis de eventos en javascript
