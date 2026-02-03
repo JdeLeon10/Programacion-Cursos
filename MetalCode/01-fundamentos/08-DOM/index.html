@@ -25,9 +25,14 @@
         <li>Elemento 3 - lista 2</li>
     </ul>
 
-    <form action="">
-        <input type="text" id="input-nombre" placeholder="Escribe tu nombre">
-        <input type="submit" value="Enviar">
+    <form method="post" action="/">
+        <fieldset>
+            <legend>Datos personales</legend>
+                <input type="text" id="nombre" name="nombre" placeholder="Escribe tu nombre">
+                <input type="text" id="apellido" name="apellido" placeholder="Escribe tu apellido">
+                <input type="email" name="email" id="email" placeholder="Escribe tu correo">
+                <input type="submit" value="Enviar">
+        </fieldset>
     </form>
 
     <script src="script.js"></script>
