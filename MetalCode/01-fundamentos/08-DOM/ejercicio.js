@@ -1,3 +1,4 @@
+/*
 class TaskForm{
     constructor(idForm, idInput, idList){
         this.frm = document.querySelector(idForm);
@@ -35,3 +36,42 @@ class TaskForm{
 
 const taskForm = new TaskForm("#frm", "#txtDescription", "#ulList");
 taskForm.build();
+*/
+
+// 1. Buscar los elementos del DOM
+const frm = document.querySelector("#frm");
+const input = document.querySelector("#txtDescription");
+const list = document.querySelector("#ulList");
+
+// 2. Función para crear el botón eliminar
+function createButtonDelete() {
+    const btn = document.createElement("button");
+    btn.innerText = "Eliminar tarea";
+
+    btn.addEventListener("click", () => {
+        const li = btn.parentNode;
+        li.remove();
+    });
+
+    return btn;
+}
+
+// 3. Evento submit del formulario
+frm.addEventListener("submit", (event) => {
+    // Evita que la pagina se recargue
+    event.preventDefault();
+
+    const description = input.value;
+
+    const li = document.createElement("li");
+    const btn = createButtonDelete();
+
+    li.innerText = `${description} - ${new Date().toLocaleDateString()}`;
+    // Mete el boton dentro de li
+    li.appendChild(btn);
+
+    // Mete li dentro de list (ul)
+    list.appendChild(li);
+
+    frm.reset();
+});
