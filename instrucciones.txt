@@ -1,0 +1,10 @@
+1. Crear la carpeta raiz y la solucion a ejecutar
+1.1 dotnet new sln -n DotNetFundamentos
+
+2. Crear el tipo de proyecto y añadirlo a la solucion
+2.1. dotnet new console -n Fundamentos
+2.2. dotnet sln add Fundamentos/Fundamentos.csproj
+
+3. Entrar a la carpeta a trabajar y ejecutar el proyecto
+3.1. cd 01-Fundamentos
+3.2. dotnet run
