@@ -37,11 +37,11 @@ cadena_float = float(cadena_entero)
 decimal_original = 3.99
 decimal_convertido = int(decimal_original)
 
-print(cadena_original)
-print(cadena_entero)
-print(cadena_float)
-print(decimal_original)
-print(decimal_convertido)
+print(cadena_original, "cadena original")
+print(cadena_entero, "cadena entero")
+print(cadena_float, "cadena float")
+print(decimal_original, "decimal original")
+print(decimal_convertido, "decimal convertido")
 
 print("--------------")
 
