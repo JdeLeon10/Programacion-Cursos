@@ -1,0 +1,21 @@
+1. Inicializar node
+npm init -y
+
+2. Instalar dependencias
+npm install express
+
+3. Instalar dependencias de desarrollo para reinicio automatico (nodemon)
+npm install --save-dev nodemon
+
+4. Configuraciones de package.json:
+4.1. Agregar:
+"type": "module"
+
+4.2. Cambiar: 
+"scripts": {
+  "dev": "nodemon index.js",
+  "start": "node index.js"
+}
+
+5. Ejecucion de archivo
+npm run dev
