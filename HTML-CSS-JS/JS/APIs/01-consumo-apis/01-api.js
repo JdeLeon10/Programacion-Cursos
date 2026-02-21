@@ -41,11 +41,33 @@ fetch(url)
     .catch(function(error) {
         console.error("Ocurrió un error:", error.message);
     });
+
+
 /*
     Utilizando async / await
+
+    Estructura basica de async / await
+    async function nombreFuncion(){
+        try{
+            const response = await fetch(url); // Esperamos la respuesta del servidor
+
+            // Validacion de error
+            if (!response.ok) {
+                throw new Error("Error HTTP: " + response.status);
+            }
+
+            // convertir a JSON
+            const data = await response.json();
+
+            // Mostrar datos
+            console.log(data);
+
+        } catch (error) {
+            console.log(`Error encontrado: ${error}`)
+        }
+    }
+
 */
-
-
 async function ObtenerPokemon(nombre){
     
     const url = `https://pokeapi.co/api/v2/pokemon/${nombre}`;

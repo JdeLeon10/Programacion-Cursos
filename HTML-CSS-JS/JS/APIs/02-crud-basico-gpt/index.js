@@ -1,6 +1,6 @@
 import express from "express";
 
-// Crea una instancia de la aplicacion express, dentro de app se definitrar rutas
+// Crea una instancia de la aplicacion express, dentro de app se definir rutas
 const app = express();
 // Define el puerto de ejecucion
 const PORT = 3000;
@@ -19,6 +19,11 @@ app.get("/", (req, res) => {
   res.json({ mensaje: "Servidor funcionando" });
 });
 
+// READ - GET
+app.get("/usuarios", (req, res) => {
+  res.json(usuarios); // Devuelve el array como JSON
+});
+
 // CREATE - POST
 app.post("/usuarios", (req, res) => {
   const nuevoUsuario = {
@@ -30,10 +35,6 @@ app.post("/usuarios", (req, res) => {
   res.status(201).json(nuevoUsuario);
 });
 
-// READ - GET
-app.get("/usuarios", (req, res) => {
-  res.json(usuarios); // Devuelve el array como JSON
-});
 
 // UPDATE - PUT
 app.put("/usuarios/:id", (req, res) => {
