@@ -13,7 +13,7 @@ app.get('/', (req, res) => {
     res.send('Puedes utilizar la ruta /users para verificar los usuarios'); // Respuesta para la ruta raíz
 });
 
-app.listen(port, () => { console.log(`Servidor en localhost:${port}`)});
+app.listen(port, () => { console.log(`Servidor en http://localhost:${port}`)});
 
 /*
     Implementacion de rutas para crud
@@ -64,16 +64,18 @@ app.put('/users/:id', (req, res) => {
 
     const {name} = req.body; // Nuevo nombre
     user.name = name;
+    res.json({ message: 'Usuario actualizado', user });
 });
 
 // Ruta DELETE para eliminar un usuario
 app.delete('/users/:id', (req, res) => {
     const userId = parseInt(req.params.id); // req.params.id -> Obtener el ID de los parámetros de la ruta -> /users/1 -> id = "1"
     
+    const user = users.find(x => x.id === userId); // Verificar si el usuario existe antes de eliminarlo
     if(!user){
         return res.json({ message: 'Usuario no encontrado' });
     }
-
+    
     users = users.filter(x => x.id !== userId); // Crea un nuevo arreglo de usuarios "eliminando" el usuario con el ID especificado
-    res.json({ message: 'Usuario eliminado' }); // Responder con un mensaje de éxito
+    res.json({ message: 'Usuario eliminado' });
 });
