@@ -5,7 +5,7 @@ import {
     createInventario,
     updateInventario,
     deleteInventario
-} from '../controllers/inventario.js';
+} from '../controllers/inventario.controllers.js';
 
 const router = Router();
 

@@ -21,7 +21,7 @@ export const createInventario = async (req, res) => {
     try{
         const [result] = await pool.query(
             `
-            INSERT INTO inventarios (fecha_ingreso, cantidad, costo, fecha_vencimiento, id_producto)
+            INSERT INTO inventario (fecha_ingreso, cantidad, costo, fecha_vencimiento, id_producto)
             SELECT ?, ?, ?, ?, p.id_producto
             FROM productos p
             WHERE p.codigo_producto = ?
@@ -54,7 +54,7 @@ export const updateInventario = async (req, res) => {
 
     try {
         const [result] = await pool.query(
-            'UPDATE inventarios SET fecha_ingreso = ?, cantidad = ?, costo = ?, fecha_vencimiento = ? WHERE id_inventario = ?',
+            'UPDATE inventario SET fecha_ingreso = ?, cantidad = ?, costo = ?, fecha_vencimiento = ? WHERE id_inventario = ?',
             [
                 fecha_ingreso,                 // 'YYYY-MM-DD'
                 parseInt(cantidad),
@@ -82,7 +82,7 @@ export const deleteInventario = async (req, res) => {
 
     try {
         const [result] = await pool.query(
-            'DELETE FROM inventarios WHERE id_inventario = ?', [id]
+            'DELETE FROM inventario WHERE id_inventario = ?', [id]
         );
 
         if (result.affectedRows === 0) {
