@@ -25,20 +25,24 @@
       <a href="index.html" style="color:inherit;text-decoration:none;">Inventario</a>
       &nbsp;/&nbsp; Editar
     </div>
-    <h1>Editar Entrada <small id="inv-id-label" style="font-family:'DM Mono',monospace;font-size:1rem;color:var(--muted);"></small></h1>
+    <h1>Editar Entrada de Inventario</h1>
   </header>
 
   <main class="content-area">
     <div class="card-panel">
-      <h5><span class="method-badge badge-put">PUT</span> &nbsp;Editar por ID de Inventario</h5>
+      <h5><span class="method-badge badge-put">PUT</span> &nbsp;Editar por Código de Producto</h5>
 
       <div class="alert-info">
-        Ingresa el <strong>ID de inventario</strong> (id_inventario) en la URL como
-        parámetro: <code>editar.html?id=3</code>
+        Ingresa el <strong>código del producto</strong> para actualizar la última entrada
+        de inventario registrada para ese producto.
       </div>
 
       <form id="form-editar" novalidate>
         <div class="form-grid">
+          <div class="form-group">
+            <label for="codigo_producto">Código del Producto</label>
+            <input type="text" id="codigo_producto" placeholder="PRD-0001" required/>
+          </div>
           <div class="form-group">
             <label for="fecha_ingreso">Fecha de Ingreso</label>
             <input type="date" id="fecha_ingreso" required/>
@@ -67,6 +71,6 @@
     </div>
   </main>
 
-  <script type="module" src="../js/inventario/editar.js"></script>
+  <script type="module" src="../js/inventario/editar-inventario.js"></script>
 </body>
 </html>
