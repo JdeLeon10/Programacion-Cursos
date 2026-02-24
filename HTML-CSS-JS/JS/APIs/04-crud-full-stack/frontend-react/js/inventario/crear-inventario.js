@@ -67,7 +67,7 @@ form.addEventListener("submit", async (e) => {
     form.reset();
 
     setTimeout(() => {
-      window.location.href = "index.html";
+      window.location.href = "index-inventario.html";
     }, 1200);
 
   } catch (err) {

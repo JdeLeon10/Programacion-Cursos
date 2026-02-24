@@ -80,7 +80,7 @@ form.addEventListener("submit", async (e) => {
         mostrarResultado("Producto actualizado correctamente");
 
         setTimeout(() => {
-            window.location.href = "index.html";
+            window.location.href = "index-productos.html";
         }, 1500);
 
     } catch (error) {

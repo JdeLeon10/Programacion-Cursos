@@ -57,7 +57,7 @@ form.addEventListener("submit", async (e) => {
 
         // Redirigir después de 1.5 segundos
         setTimeout(() => {
-            window.location.href = "index.html";
+            window.location.href = "index-productos.html";
         }, 1500);
 
     } catch (error) {

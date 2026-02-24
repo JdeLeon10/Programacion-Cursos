@@ -43,7 +43,7 @@ async function listarProductos() {
                 <td>${producto.sub_categoria}</td>
                 <td>${producto.marca}</td>
                 <td>
-                    <a href="editar.html?id=${producto.id_producto}" class="btn-secondary">
+                    <a href="editar-productos.html?id=${producto.id_producto}" class="btn-secondary">
                         Editar
                     </a>
                     <button 

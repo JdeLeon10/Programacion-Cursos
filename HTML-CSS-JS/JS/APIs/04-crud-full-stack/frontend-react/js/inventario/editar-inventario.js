@@ -69,7 +69,7 @@ form.addEventListener("submit", async (e) => {
     mostrarResultado("Entrada de inventario actualizada correctamente");
 
     setTimeout(() => {
-      window.location.href = "index.html";
+      window.location.href = "index-inventario.html";
     }, 1200);
 
   } catch (err) {
