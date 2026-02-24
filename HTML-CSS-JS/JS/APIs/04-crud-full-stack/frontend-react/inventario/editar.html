@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Editar Inventario – Supermercado DB</title>
+  <link href="https://fonts.googleapis.com/css2?family=DM+Serif+Display&family=DM+Sans:wght@300;400;500;600&family=DM+Mono&display=swap" rel="stylesheet"/>
+  <link rel="stylesheet" href="../css/styles.css"/>
+</head>
+<body>
+
+  <nav class="top-nav">
+    <a href="../index.html" class="brand">Supermercado <span>DB</span></a>
+    <div class="top-nav-links">
+      <a href="../index.html">Inicio</a>
+      <a href="../productos/index.html">Productos</a>
+      <a href="index.html" class="active">Inventario</a>
+    </div>
+  </nav>
+
+  <header class="page-header">
+    <div class="breadcrumb-tag">
+      <a href="../index.html" style="color:inherit;text-decoration:none;">Inicio</a>
+      &nbsp;/&nbsp;
+      <a href="index.html" style="color:inherit;text-decoration:none;">Inventario</a>
+      &nbsp;/&nbsp; Editar
+    </div>
+    <h1>Editar Entrada <small id="inv-id-label" style="font-family:'DM Mono',monospace;font-size:1rem;color:var(--muted);"></small></h1>
+  </header>
+
+  <main class="content-area">
+    <div class="card-panel">
+      <h5><span class="method-badge badge-put">PUT</span> &nbsp;Editar por ID de Inventario</h5>
+
+      <div class="alert-info">
+        Ingresa el <strong>ID de inventario</strong> (id_inventario) en la URL como
+        parámetro: <code>editar.html?id=3</code>
+      </div>
+
+      <form id="form-editar" novalidate>
+        <div class="form-grid">
+          <div class="form-group">
+            <label for="fecha_ingreso">Fecha de Ingreso</label>
+            <input type="date" id="fecha_ingreso" required/>
+          </div>
+          <div class="form-group">
+            <label for="cantidad">Cantidad</label>
+            <input type="number" id="cantidad" placeholder="100" min="1" required/>
+          </div>
+          <div class="form-group">
+            <label for="costo">Costo Unitario (Q)</label>
+            <input type="number" id="costo" placeholder="6.50" step="0.01" min="0" required/>
+          </div>
+          <div class="form-group">
+            <label for="fecha_vencimiento">Fecha de Vencimiento <em>(opcional)</em></label>
+            <input type="date" id="fecha_vencimiento"/>
+          </div>
+        </div>
+
+        <div class="btn-section">
+          <button type="submit" class="btn-primary">Actualizar Entrada</button>
+          <a href="index.html" class="btn-secondary">Cancelar</a>
+        </div>
+      </form>
+
+      <div id="result-box" class="result-box"></div>
+    </div>
+  </main>
+
+  <script type="module" src="../js/inventario/editar.js"></script>
+</body>
+</html>
