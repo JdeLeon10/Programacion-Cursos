@@ -1,5 +1,10 @@
 .DS_Store
+
 node_modules
 package.json
 package-lock.json
 .env
+
+
+vite.config.js
+eslint.config.js
