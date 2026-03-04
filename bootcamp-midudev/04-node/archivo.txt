@@ -1,1 +1,0 @@
-Este es un archivo de texto que sera leido con nodejs.
