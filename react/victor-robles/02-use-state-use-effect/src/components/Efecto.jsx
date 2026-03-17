@@ -24,6 +24,8 @@ export const Efecto = () => {
       <p>Utilizando useEffect para manejar efectos secundarios</p>
       <h2>Contador: {contador}</h2>
       <button onClick={() => setContador(contador + 1)}>Incrementar</button>
+      <button onClick={() => setContador(contador - 1)}>Decrementar</button>
+      <button onClick={() => setContador(0)}>Resetear</button>
     </>
   );
 };
