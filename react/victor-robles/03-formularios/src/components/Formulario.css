@@ -2,19 +2,55 @@ body {
   background-color: #ccc;
 }
 
-form input[type="text"],
-form select,
-form textarea {
+.flexbox-parent,
+.info-usuario {
+  border: 2px solid red;
+  margin: 0 auto;
+  width: 350px;
+  min-height: 350px;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+  justify-content: center;
+  align-items: center;
+  gap: 15px;
+  padding: 20px 10px;
+}
+
+.info-usuario {
+  margin-top: 10px;
+}
+
+.flexbox-title {
+  margin: 0;
+  text-align: center;
+}
+
+.formulario {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+}
+
+.formulario-fieldset {
+  border: 1px solid #999;
+  padding: 10px;
+  width: 240px;
+}
+
+.formulario input[type="text"],
+.formulario select,
+.formulario textarea {
   display: block;
-  margin: 10px;
+  margin: 10px auto;
   padding: 5px;
   width: 200px;
 }
 
-form input[type="submit"],
-form button {
+.formulario input[type="submit"],
+.formulario button {
   display: block;
-  margin: 10px;
+  margin: 10px auto;
   padding: 5px;
   background-color: rgb(2, 218, 193);
   color: black;
