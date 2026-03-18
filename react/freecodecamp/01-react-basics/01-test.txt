@@ -1,0 +1,6 @@
+1. Entendimiento - ejercicio basico para reenderizar
+
+import { createRoot } from "react-dom/client"
+
+const root = createRoot(document.getElementById("root"))
+root.render(<p> Hola react </p>)
