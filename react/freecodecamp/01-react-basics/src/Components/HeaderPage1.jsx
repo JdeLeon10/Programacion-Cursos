@@ -3,7 +3,11 @@ import React from "react";
 export const HeaderPage1 = () => {
   return (
     <header className="header">
-      <img src="../src/Assets/react-logo.png" alt="React Logo" />
+      <img
+        className="img-page1"
+        src="../src/Assets/react-logo.png"
+        alt="React Logo"
+      />
 
       <nav>
         <ul className="nav-list">

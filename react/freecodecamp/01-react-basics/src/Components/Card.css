@@ -1,0 +1,26 @@
+.header-card {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  height: 25px;
+}
+
+.header-card h3 {
+  color: #61dafb;
+}
+
+.img-card {
+  width: 40px;
+}
+
+ul li::marker {
+  color: #61dafb;
+}
+
+li {
+  margin-bottom: 10px;
+}
+
+li:last-child {
+  margin-bottom: 0;
+}

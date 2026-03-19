@@ -1,3 +1,4 @@
+import "./Page1.css";
 import React from "react";
 import { HeaderPage1 } from "./HeaderPage1";
 import { MainPage1 } from "./MainPage1";
