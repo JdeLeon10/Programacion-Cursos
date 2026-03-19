@@ -1,18 +1,21 @@
 import React from "react";
 import "./Entry.css";
 
-export const Entry = ({ location, title, date, description }) => {
+export const Entry = ({
+  imgSrc,
+  imgAlt,
+  country,
+  title,
+  date,
+  description,
+}) => {
   return (
     <>
       <article className="journal-entry">
-        <img
-          className="journal-entry-img"
-          src="https://scrimba.com/links/travel-journal-japan-image-url"
-          alt="Mount fuji"
-        />
+        <img className="journal-entry-img" src={imgSrc} alt={imgAlt} />
         <div>
           <img src="../src/Assets/marker.png" alt="Marker" />
-          <span>{location}</span>
+          <span>{country}</span>
           <a href="https://www.google.com/maps">View on Google Maps</a>
           <h2>{title}</h2>
           <p>{date}</p>
