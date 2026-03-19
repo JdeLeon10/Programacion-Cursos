@@ -1,0 +1,10 @@
+.journal-entry {
+  display: flex;
+  padding: 35px;
+}
+
+.journal-entry-img {
+  width: 125px;
+  height: 168px;
+  border-radius: 10px;
+}
