@@ -5,8 +5,8 @@
 import React from "react";
 
 export const ConditionalRender = ({ isLoggedIn, userName }) => {
-  const welcomeMessage = <h2> Bienvenido {userName}</h2>;
-  const loginMessage = <h2> Por favor inicia sesión </h2>;
+  const welcomeMessage = <h3> Bienvenido {userName}</h3>;
+  const loginMessage = <h3> Por favor inicia sesión </h3>;
 
   return (
     <>
