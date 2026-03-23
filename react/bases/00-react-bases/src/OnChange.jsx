@@ -15,14 +15,14 @@ export const OnChange = () => {
   const [quantity, setQuantity] = useState(0);
   const [payment, setPayment] = useState("");
 
-  const handleNameChange = (event) => {
-    setName(event.target.value); // Actualiza el estado con el nuevo valor del input
-  };
   /*
     function handleNameChange(event) {
     setName(event.target.value); // Actualiza el estado con el nuevo valor del input
     }
   */
+  const handleNameChange = (event) => {
+    setName(event.target.value); // Actualiza el estado con el nuevo valor del input
+  };
 
   const handleQuantityChange = (event) => {
     setQuantity(event.target.value); // Actualiza el estado con el nuevo valor del input
