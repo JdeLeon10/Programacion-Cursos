@@ -1,7 +1,19 @@
+import { Props } from "./Props";
+import { ConditionalRender } from "./ConditionalRender";
+import { RenderList } from "./RenderList";
+import { ClickEvents } from "./ClickEvents";
+
 function App() {
   return (
     <>
-      <h1>Hola mundo</h1>
+      <Props name="Jeremy" age={24} isStudent={true} />
+      <hr />
+      <ConditionalRender isLoggedIn={true} userName="Jeremy" />
+      <hr />
+      <RenderList />
+      <hr />
+      <ClickEvents />
+      <hr />
     </>
   );
 }
