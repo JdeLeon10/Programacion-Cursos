@@ -5,6 +5,8 @@ import { ClickEvents } from "./ClickEvents";
 import { UseState } from "./UseState";
 import { OnChange } from "./OnChange";
 import { ColorPicker } from "./ColorPicker";
+import { UpdateObjecsInState } from "./UpdateObjecsInState";
+import { UpdateArrayInState } from "./UpdateArrayInState";
 
 function App() {
   return (
@@ -23,6 +25,10 @@ function App() {
       <OnChange />
       <hr />
       <ColorPicker />
+      <hr />
+      <UpdateObjecsInState />
+      <hr />
+      <UpdateArrayInState />
       <hr />
     </>
   );
