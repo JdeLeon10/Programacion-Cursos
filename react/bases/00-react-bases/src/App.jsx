@@ -4,6 +4,7 @@ import { RenderList } from "./RenderList";
 import { ClickEvents } from "./ClickEvents";
 import { UseState } from "./UseState";
 import { OnChange } from "./OnChange";
+import { ColorPicker } from "./ColorPicker";
 
 function App() {
   return (
@@ -20,6 +21,8 @@ function App() {
       <UseState />
       <hr />
       <OnChange />
+      <hr />
+      <ColorPicker />
       <hr />
     </>
   );
