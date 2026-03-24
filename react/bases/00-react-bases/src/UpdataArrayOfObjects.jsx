@@ -30,6 +30,7 @@ export const UpdateArrayOfObjects = () => {
     setCars(cars.filter((_, i) => i !== index));
   };
 
+  // Toma el value de input y lo asigna al estado correspondiente para cada propiedad del carro
   const handleAddYearChange = (event) => {
     setCarYear(event.target.value);
   };
