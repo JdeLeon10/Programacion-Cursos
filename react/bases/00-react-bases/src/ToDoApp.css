@@ -1,0 +1,65 @@
+.to-do-list {
+  font-family: "Courier New", Courier, monospace;
+  text-align: center;
+  margin: 50px 0;
+}
+
+.button-task {
+  font-size: 1.7rem;
+  font-weight: bold;
+  padding: 10px 20px;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.add-task-button {
+  background-color: greenyellow;
+}
+
+.task-text {
+  flex: 1; /* Permite que el texto ocupe todo el espacio disponible */
+}
+
+.delete-task-button {
+  background-color: red;
+}
+
+.move-up-task-button {
+  background-color: cyan;
+}
+
+.move-down-task-button {
+  background-color: orange;
+}
+
+.delete-task-button,
+.move-up-task-button,
+.move-down-task-button {
+  padding: 8px 12px; /* y , x respectivamente */
+  margin-left: 10px; /* Espacio entre los botones */
+}
+
+.input-todo {
+  font-size: 1.6rem;
+  padding: 10px;
+  border: 2px solid black;
+  border-radius: 5px;
+  color: blueviolet;
+}
+
+.ol-todo {
+  padding: 0;
+}
+
+.il-todo {
+  font-size: 2rem;
+  font-weight: bold;
+  padding: 15px;
+  margin-bottom: 15px;
+  border: 3px solid black;
+  border-radius: 5px;
+  display: flex;
+  align-items: center;
+}

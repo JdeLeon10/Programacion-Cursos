@@ -8,6 +8,7 @@ import { ColorPicker } from "./ColorPicker";
 import { UpdateObjecsInState } from "./UpdateObjecsInState";
 import { UpdateArrayInState } from "./UpdateArrayInState";
 import { UpdateArrayOfObjects } from "./UpdataArrayOfObjects";
+import { ToDoApp } from "./ToDoApp";
 
 function App() {
   return (
@@ -32,6 +33,8 @@ function App() {
       <UpdateArrayInState />
       <hr />
       <UpdateArrayOfObjects />
+      <hr />
+      <ToDoApp />
       <hr />
     </>
   );
