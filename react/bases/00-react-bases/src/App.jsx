@@ -11,6 +11,7 @@ import { UpdateArrayOfObjects } from "./UpdataArrayOfObjects";
 import { ToDoApp } from "./ToDoApp";
 import { UseEffect } from "./UseEffect";
 import { DigitalClockApp } from "./DigitalClockApp";
+import { UseContextA } from "./UseContextA";
 
 function App() {
   return (
@@ -41,6 +42,8 @@ function App() {
       <UseEffect />
       <hr />
       <DigitalClockApp />
+      <hr />
+      <UseContextA />
       <hr />
     </>
   );
