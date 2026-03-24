@@ -7,6 +7,7 @@ import { OnChange } from "./OnChange";
 import { ColorPicker } from "./ColorPicker";
 import { UpdateObjecsInState } from "./UpdateObjecsInState";
 import { UpdateArrayInState } from "./UpdateArrayInState";
+import { UpdateArrayOfObjects } from "./UpdataArrayOfObjects";
 
 function App() {
   return (
@@ -29,6 +30,8 @@ function App() {
       <UpdateObjecsInState />
       <hr />
       <UpdateArrayInState />
+      <hr />
+      <UpdateArrayOfObjects />
       <hr />
     </>
   );

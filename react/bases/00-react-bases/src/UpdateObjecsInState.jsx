@@ -25,7 +25,7 @@ export const UpdateObjecsInState = () => {
     <>
       <h1>Update Objects In State</h1>
       <p>
-        Your favorite car is: {car.make} {car.model} {car.year}
+        Your car is: {car.make} {car.model} {car.year}
       </p>
       <input type="text" value={car.make} onChange={handleMakeChange} />
       <input type="text" value={car.model} onChange={handleModelChange} />
