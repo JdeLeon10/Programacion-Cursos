@@ -1,0 +1,10 @@
+.clock-title {
+  text-align: center;
+}
+
+.clock {
+  font-family: monospace;
+  font-weight: bold;
+  font-size: 5rem;
+  text-align: center;
+}
