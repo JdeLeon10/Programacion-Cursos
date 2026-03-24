@@ -2,41 +2,38 @@ import React from "react";
 import { useState } from "react";
 
 export const UpdateArrayInState = () => {
-  const [foods, setFoods] = useState(["Pizza", "Sushi", "Tacos"]);
-  const [newFood, setNewFood] = useState("");
+  const [fruits, setFruits] = useState(["Apple", "Banana", "Cherry"]);
 
-  // Función para manejar el cambio en el input de comida
-  const handleFoodChange = (e) => {
-    setNewFood(e.target.value);
+  const handleAddFruit = () => {
+    const newFruit = document.getElementById("fruitInput").value;
+    document.getElementById("fruitInput").value = "";
+
+    // Updater function
+    setFruits((f) => [...f, newFruit]); // Agrega la nueva fruta al final del array existente utilizando el operador spread
   };
 
-  // Lista de elementos de foods
-  const foodList = foods.map((food, index) => <li key={index}>{food}</li>);
-
-  const handleAddFood = () => {
-    if (newFood.trim() !== "") {
-      // Verifica que newFood no esté vacío o solo contenga espacios
-
-      setFoods([...foods, newFood]); // Agrega newFood al final de la lista de foods
-      setNewFood(""); // Limpia el input después de agregar la comida
-    }
+  // Función para eliminar una fruta por su índice
+  const handleRemoveFruit = (index) => {
+    setFruits((f) => f.filter((_, i) => i !== index)); // Elimina la fruta en el índice especificado utilizando el método filter
   };
-
-  const handleRemoveFood = () => {};
 
   return (
     <>
       <h1>Update Array In State</h1>
-      <h3>Lista de comida</h3>
-      <ul>{foodList}</ul>
+      <h3>Lista de frutas</h3>
 
-      <input
-        type="text"
-        value={newFood} // Texto en input = valor de newFood
-        onChange={handleFoodChange} // Actualiza newFood con el valor del input
-        placeholder="Ingresa una comida"
-      />
-      <button onClick={handleAddFood}>Agregar comida</button>
+      <ul>
+        {fruits.map((fruit, index) => (
+          <li key={index}>
+            {fruit}
+            {" - "}
+            <button onClick={() => handleRemoveFruit(index)}>Eliminar</button>
+          </li>
+        ))}
+      </ul>
+
+      <input type="text" id="fruitInput" placeholder="Ingresa una fruta" />
+      <button onClick={handleAddFruit}>Agregar fruta</button>
     </>
   );
 };
