@@ -9,6 +9,8 @@ import { UpdateObjecsInState } from "./UpdateObjecsInState";
 import { UpdateArrayInState } from "./UpdateArrayInState";
 import { UpdateArrayOfObjects } from "./UpdataArrayOfObjects";
 import { ToDoApp } from "./ToDoApp";
+import { UseEffect } from "./UseEffect";
+import { DigitalClockApp } from "./DigitalClockApp";
 
 function App() {
   return (
@@ -35,6 +37,10 @@ function App() {
       <UpdateArrayOfObjects />
       <hr />
       <ToDoApp />
+      <hr />
+      <UseEffect />
+      <hr />
+      <DigitalClockApp />
       <hr />
     </>
   );
