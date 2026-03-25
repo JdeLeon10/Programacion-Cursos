@@ -28,8 +28,10 @@ export const UseRef = () => {
   return (
     <>
       <h1>UseRef</h1>
-      <p>{number}</p>
+      <p>Clicls con useState {number}</p>
       <button onClick={handleClick}> Click con useState</button>
+      <p>Clicls con useRef {numberRef.current}</p>{" "}
+      {/* Se actualizara hasta renderizar nuevamente el componente*/}
       <button onClick={handleClick2}> Click con useRef</button>
     </>
   );
