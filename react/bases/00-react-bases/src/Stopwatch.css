@@ -1,0 +1,49 @@
+.stopwatch-title {
+  text-align: center;
+  font-family: monospace;
+}
+
+.stopwatch {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 1rem;
+  font-family: monospace;
+
+  border: 5px solid black;
+  border-radius: 15px;
+  padding: 2rem;
+}
+
+.display {
+  font-size: 2rem;
+}
+
+.start-button,
+.stop-button,
+.reset-button {
+  font-family: monospace;
+  margin: 15px;
+  padding: 10px;
+  border-radius: 15px;
+  min-width: 100px;
+  cursor: pointer;
+}
+
+.start-button {
+  background-color: #4caf50;
+  color: white;
+  border: none;
+}
+
+.stop-button {
+  background-color: #f44336;
+  color: white;
+  border: none;
+}
+
+.reset-button {
+  background-color: #2196f3;
+  color: white;
+  border: none;
+}

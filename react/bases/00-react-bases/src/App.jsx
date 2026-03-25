@@ -13,6 +13,7 @@ import { UseEffect } from "./UseEffect";
 import { DigitalClockApp } from "./DigitalClockApp";
 import { UseContextA } from "./UseContextA";
 import { UseRef } from "./UseRef";
+import { Stopwatch } from "./Stopwatch";
 
 function App() {
   return (
@@ -48,6 +49,7 @@ function App() {
       <hr />
       <UseRef />
       <hr />
+      <Stopwatch />
     </>
   );
 }
