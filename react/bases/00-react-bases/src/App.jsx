@@ -12,6 +12,7 @@ import { ToDoApp } from "./ToDoApp";
 import { UseEffect } from "./UseEffect";
 import { DigitalClockApp } from "./DigitalClockApp";
 import { UseContextA } from "./UseContextA";
+import { UseRef } from "./UseRef";
 
 function App() {
   return (
@@ -44,6 +45,8 @@ function App() {
       <DigitalClockApp />
       <hr />
       <UseContextA />
+      <hr />
+      <UseRef />
       <hr />
     </>
   );
