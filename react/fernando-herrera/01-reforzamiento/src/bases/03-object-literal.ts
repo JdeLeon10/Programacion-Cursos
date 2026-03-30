@@ -22,7 +22,7 @@ interface IVehiculo {
   brand: string;
   model: string;
   year: number;
-  Owner?: string; // Propiedad opcional
+  owner?: string; // Propiedad opcional
 }
 
 const Carro: IVehiculo = {
@@ -35,6 +35,7 @@ const Moto: IVehiculo = {
   brand: "Yamaha",
   model: "R1",
   year: 2020,
+  owner: "Jeremy",
 };
 
 console.log(Carro);
