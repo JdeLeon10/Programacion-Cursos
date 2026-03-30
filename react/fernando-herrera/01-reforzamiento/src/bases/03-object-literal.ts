@@ -40,3 +40,5 @@ const Moto: IVehiculo = {
 
 console.log(Carro);
 console.log(Moto);
+
+console.log("");
