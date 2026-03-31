@@ -15,15 +15,7 @@ const { name: firstName, age: yearsOld } = person;
 console.log(firstName, yearsOld);
 
 // Desestructuracion en funciones
-const getPersonInfo = ({
-  name,
-  age,
-  country,
-}: {
-  name: string;
-  age: number;
-  country: string;
-}) => {
+const getPersonInfo = ({ name, age, country }: { name: string; age: number; country: string }) => {
   return `Name: ${name}, Age: ${age}, Country: ${country}`;
 };
 
