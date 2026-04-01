@@ -1,11 +1,11 @@
-interface Hero {
+export interface Hero {
   id: number;
   name: string;
   owner: Owner;
   //dueño: OwnerEnum;
 }
 
-type Owner = "DC" | "Marvel"; // Type define una serie de posibles valores
+export type Owner = "DC" | "Marvel"; // Type define una serie de posibles valores
 
 /*
 enum OwnerEnum {
@@ -14,7 +14,7 @@ enum OwnerEnum {
 }
 */
 
-const heroes: Hero[] = [
+export const heroes: Hero[] = [
   {
     id: 1,
     name: "Batman",
