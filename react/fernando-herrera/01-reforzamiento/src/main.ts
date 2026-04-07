@@ -6,6 +6,7 @@ import "./bases/05-functions";
 import "./bases/06-obj-destructuring";
 import "./bases/07-arr-destructuring";
 import "./bases/08-imp-exp";
+import "./bases/09-promises";
 
 document.querySelector<HTMLDivElement>("#app")!.innerHTML = `
   <h1>Hello Vite!</h1>
