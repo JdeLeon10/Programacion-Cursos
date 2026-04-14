@@ -11,6 +11,7 @@ myRequest
 
     const charactersElement = document.createElement("div");
     charactersElement.innerHTML = `
+      <h2>Peticion con fetch</h2>
       <h2>Personajes de Rick and Morty</h2>
       <ul>
         ${data.results
@@ -35,6 +36,7 @@ myRequest2
 
     const characterElement = document.createElement("div");
     characterElement.innerHTML = `
+      <h2>Peticion con fetch</h2>
       <h2>Personaje con ID 1</h2>
       <p>Nombre: ${data.name}</p>
       <p>Especie: ${data.species}</p>
