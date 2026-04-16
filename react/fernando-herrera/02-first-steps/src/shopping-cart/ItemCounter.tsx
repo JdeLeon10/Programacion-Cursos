@@ -1,3 +1,4 @@
+import { useState } from "react";
 /*
   Interfaces propias de TypeScript para definir las props de un componente
   En JS, podria unicamente pasar el objeto con las props
@@ -15,10 +16,26 @@ export const ItemsInStore: Props[] = [
   { productName: "Monitores de 27 pulgadas", quantity: 3 },
   { productName: "Teclados mecánicos", quantity: 5 },
   { productName: "Ratones gaming", quantity: 2 },
-  { productName: "Juegos para PS5", quantity: 2 },
+  { productName: "Juegos para PS5", quantity: 7 },
 ];
 
 export const ItemCounter = ({ productName, quantity }: Props) => {
+  const [count, setCount] = useState(quantity || 0); // Si quantity es undefined, se inicializa en 0 , si quantity fuera obligatoria no seria necesario el operador || y se podria inicializar directamente con quantity
+
+  const handleClick = () => {
+    console.log(`Click en ${productName}`);
+  };
+
+  const handleAdd = () => {
+    setCount(count + 1);
+  };
+
+  const handleSubtract = () => {
+    if (count === 1) return; // Evitamos que el contador baje de 1, ya que no tiene sentido tener un producto con cantidad negativa o 0 en un carrito de compras
+
+    setCount(count - 1);
+  };
+
   return (
     <>
       <div
@@ -32,10 +49,20 @@ export const ItemCounter = ({ productName, quantity }: Props) => {
           marginBottom: "10px",
         }}
       >
+        <button onClick={handleClick}>Test click</button>
         <span>{productName}</span>
-        <button>+1</button>
-        <span>{quantity}</span>
-        <button>-1</button>
+        {/* Ya que solo es una funcion, puede retornarse directamente sin necesidad de una funcion anonima */}
+        {/* 
+        <button
+          onClick={() => {
+            handleClick();
+          }}
+        >
+          +1
+        </button> */}
+        <button onClick={handleAdd}>+1</button>
+        <span>{count}</span>
+        <button onClick={handleSubtract}>-1</button>
       </div>
     </>
   );
