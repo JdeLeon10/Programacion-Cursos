@@ -10,9 +10,13 @@ interface Props {
   quantity?: number; // Propiedad opcional, no es necesario pasarla al componente
 }
 
-// Exportamos el arreglo para poder utilizarlo en el componente principal (main.tsx)
-// Se utilizo un arreglo de elementos para mostrar que se pueden renderizar multiples componentes a
-// partir de un arreglo de datos
+/*
+  Exportamos el arreglo para poder utilizarlo en el componente principal (main.tsx)
+  Se utilizo un arreglo de elementos para mostrar que se pueden renderizar multiples componentes a
+  partir de un arreglo de datos
+*/
+
+// eslint-disable-next-line react-refresh/only-export-components
 export const ItemsInStore: Props[] = [
   { productName: "Monitores de 27 pulgadas", quantity: 3 },
   { productName: "Teclados mecánicos", quantity: 6 },
