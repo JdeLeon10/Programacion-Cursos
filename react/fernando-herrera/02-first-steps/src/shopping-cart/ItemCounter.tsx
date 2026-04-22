@@ -1,4 +1,5 @@
 import { useState } from "react";
+import "./ItemCounter.css";
 /*
   Interfaces propias de TypeScript para definir las props de un componente
   En JS, podria unicamente pasar el objeto con las props
@@ -14,7 +15,7 @@ interface Props {
 // partir de un arreglo de datos
 export const ItemsInStore: Props[] = [
   { productName: "Monitores de 27 pulgadas", quantity: 3 },
-  { productName: "Teclados mecánicos", quantity: 5 },
+  { productName: "Teclados mecánicos", quantity: 6 },
   { productName: "Ratones gaming", quantity: 2 },
   { productName: "Juegos para PS5", quantity: 7 },
 ];
@@ -38,19 +39,12 @@ export const ItemCounter = ({ productName, quantity }: Props) => {
 
   return (
     <>
-      <div
-        style={{
-          backgroundColor: "lightblue",
-          padding: "10px",
-          borderRadius: "15px",
-          display: "flex",
-          alignItems: "center",
-          gap: "10px",
-          marginBottom: "10px",
-        }}
-      >
+      <div className="item-counter">
         <button onClick={handleClick}>Test click</button>
-        <span>{productName}</span>
+        <span style={{ color: count === 1 ? "red" : "black" }}>
+          {/* Condicion en color de letra segun cantidad, si es 1 se muestra en rojo, de lo contrario */}
+          {productName}
+        </span>
         {/* Ya que solo es una funcion, puede retornarse directamente sin necesidad de una funcion anonima */}
         {/* 
         <button
