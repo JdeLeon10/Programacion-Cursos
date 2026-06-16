@@ -16,3 +16,8 @@ tsconfig.json
 tsconfig.spec.json
 tsconfig.node.json
 vite.config.ts
+
+analysis_options.yaml
+CHANGELOG.md
+pubspec.yaml
+pubspec.lock
