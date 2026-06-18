@@ -6,6 +6,21 @@ void main() {
   String greeting = 'Hello, $name! You are $age years old.';
   print(greeting);
 
+  // Uso de constantes: const y final
+  /*
+    final: Se puede inicializar con valores dinámicos o calculados en tiempo de ejecución 
+    (por ejemplo, obtener la hora actual con DateTime.now()). Solo se puede establecer una 
+    vez y su valor no se puede cambiar después.
+
+    const: Debe ser una constante de tiempo de compilación. Su valor debe conocerse por completo 
+    antes de que el programa se ejecute. No se puede usar const con valores que dependen de 
+    la ejecución del programa.
+  */
+  const pi = 3.14159; 
+  final currentTime = DateTime.now(); 
+  print('Valor de pi: $pi');
+  print('Hora actual: $currentTime');
+
   // Condicionales
   if (age >= 18) {
     print('You are an adult.');
@@ -56,4 +71,15 @@ void main() {
     print('$nombre tiene $edad años.');
   });
   print('Edad de Alice: ${edades['Alice']}');
+
+  Map<String, String> capitales = {
+    'Francia': 'París',
+    'España': 'Madrid',
+    'Italia': 'Roma',
+  };
+
+  print('Capitales: $capitales');
+  capitales.forEach((pais, capital) {
+    print('La capital de $pais es $capital.');
+  });
 }
