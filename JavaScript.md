@@ -50,13 +50,12 @@ const person = {
 };
 
 delete person.job;
-
 console.log(person.job); // undefined
 ```
 
 ---
 
-### Eliminar propiedades con operador rest
+### Eliminar propiedades con operador `rest`
 
 ```js
 const person = {
@@ -69,20 +68,14 @@ const person = {
 const { job, city, ...remainingProperties } = person;
 
 console.log(remainingProperties); // { name: "Bob", age: 25 }
-console.log(person);
-// {
-//   name: "Bob",
-//   age: 25,
-//   job: "Designer",
-//   city: "New York"
-// }
+console.log(person); // { name: "Bob", age: 25, job: "Designer", city: "New York" }
 ```
 
-> El operador rest no modifica el objeto original. Solo crea un nuevo objeto con las propiedades restantes.
+El operador rest no modifica el objeto original. Solo crea un nuevo objeto con las propiedades restantes.
 
 ---
 
-### Revisar propiedades
+### Revisar existencia de propiedades
 
 ```js
 const person = {
@@ -101,7 +94,7 @@ console.log("name" in person); // true
 
 `Object.hasOwn()` necesita como parámetros el objeto y la propiedad.
 
-`hasOwn` solo revisa si la propiedad existe directamente en el objeto. No evalúa el valor de la propiedad, por lo que devolverá `true` aunque el valor sea `0`, `false`, `null` o `undefined`.
+`hasOwn` solo revisa si la propiedad existe directamente en el objeto. No evalúa el valor de la propiedad, por lo que devolverá `true` aunque el valor sea `0` `false`, `null` o `undefined`.
 
 ---
 
