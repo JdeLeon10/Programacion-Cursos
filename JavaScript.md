@@ -18,6 +18,44 @@
 - `RegExp`
 - `Date`
 
+## Valores primitivos vs valores no primitivos
+
+### Valor primitivo
+
+Un valor primitivo se copia por valor. Cada variable guarda su propio valor en memoria.
+
+```js
+let num1 = 5;
+let num2 = num1;
+
+num1 = 10;
+
+console.log(num2); // 5
+```
+
+En este caso, `num2` mantiene el valor `5`, porque recibió una copia del valor original.
+
+---
+
+### Valor no primitivo
+
+Un valor no primitivo se copia por referencia. Ambas variables apuntan al mismo espacio en memoria.
+
+```js
+const originalPerson = {
+  name: "John",
+  age: 30,
+};
+
+const copiedPerson = originalPerson;
+
+originalPerson.age = 31;
+
+console.log(copiedPerson.age); // 31
+```
+
+En este caso, `copiedPerson.age` también cambia porque ambos objetos apuntan a la misma referencia en memoria.
+
 ---
 
 ## Strings
@@ -97,41 +135,3 @@ console.log("name" in person); // true
 `hasOwn` solo revisa si la propiedad existe directamente en el objeto. No evalúa el valor de la propiedad, por lo que devolverá `true` aunque el valor sea `0` `false`, `null` o `undefined`.
 
 ---
-
-## Diferencia entre valores primitivos y no primitivos
-
-### Valor primitivo
-
-Un valor primitivo se copia por valor. Cada variable guarda su propio valor en memoria.
-
-```js
-let num1 = 5;
-let num2 = num1;
-
-num1 = 10;
-
-console.log(num2); // 5
-```
-
-En este caso, `num2` mantiene el valor `5`, porque recibió una copia del valor original.
-
----
-
-### Valor no primitivo
-
-Un valor no primitivo se copia por referencia. Ambas variables apuntan al mismo espacio en memoria.
-
-```js
-const originalPerson = {
-  name: "John",
-  age: 30,
-};
-
-const copiedPerson = originalPerson;
-
-originalPerson.age = 31;
-
-console.log(copiedPerson.age); // 31
-```
-
-En este caso, `copiedPerson.age` también cambia porque ambos objetos apuntan a la misma referencia en memoria.
