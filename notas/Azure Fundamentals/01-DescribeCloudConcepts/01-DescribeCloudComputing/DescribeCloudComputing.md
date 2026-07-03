@@ -100,8 +100,6 @@ Multicloud is a deployment model in which a company uses multiple public cloud p
 
 For example, a company might use AWS for storage, Google Cloud for machine learning, and Microsoft Azure for Active Directory services.
 
-![Cloud Model Comparison](07-Compare.png)
-
 ### Consumption-Based Model
 
 Cloud computing commonly uses a consumption-based pricing model, which means you pay only for the IT resources you use.
